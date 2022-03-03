@@ -1,0 +1,14 @@
+{
+  "name": "nodeexercise",
+  "version": "1.0.0",
+  "description": "node exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "\\"
+  },
+  "author": "Safwan Backar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
